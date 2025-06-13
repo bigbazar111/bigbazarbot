@@ -162,13 +162,13 @@ def save_notification_message():
 load_notification_message()
 
 # Admin and  IDs
-ADMIN_ID = 7899002808
-DEVELOPER_ID = 7732278602
-BOT_PREFIX = "X"
+ADMIN_ID = 5437074269
+DEVELOPER_ID = 7067076598
+BOT_PREFIX = "B"
 # Telegram API Credentials
-api_id = 23494076
-api_hash = '25fda4c820d17ba01048864940352ac4'
-phone_number = '+8801621416303'
+api_id = 21705728
+api_hash = 'ea4085790b866eb31e3435579d3b55ed'
+phone_number = '+8801837489447'
 
 #subscribe
 BD_TIMEZONE = pytz.timezone("Asia/Dhaka")
@@ -579,7 +579,7 @@ GROUP_ID = -1002256715924  # নির্দিষ্ট গ্রুপ ID
 
 CUSTOM_RESPONSE = """𝗬𝗘𝗦... 𝘐'𝘮 𝘢 𝘗𝘢𝘪𝘥 𝘜𝘴𝘦𝘳  
 
-𝐈 𝐀𝐠𝐫𝐞𝐞 𝐖𝐢𝐭𝐡 𝗕𝗜𝗞𝗥𝗢𝗬𝗣𝗜𝗡  
+𝐈 𝐀𝐠𝐫𝐞𝐞  
 𝑻𝒆𝒓𝒎𝒔 & 𝑪𝒐𝒏𝒅𝒊𝒕𝒊𝒐𝒏𝒔"""
 
 @client.on(events.NewMessage(pattern=r'(?i)\b(BIKROYPIN|Bikroypin)\b'))
