@@ -2004,7 +2004,7 @@ async def show_rates(event):
         "━━━━━━━━━━━━━━━\n"
         "☞︎︎︎ SM Payment ➪ +1.15%\n\n"
         "✦ 𝐎𝐫𝐝𝐞𝐫 𝐍𝐨𝐰:\n"
-        "[Website Link](https://siamgameshopbd.com)\n"
+        "[Website Link](https://quickappsstore.com/app/xyz.big.bazar)\n"
         "━━━━━━━━━━━━━━━\n"
         "✦ 𝗣𝗿𝗼𝗱𝘂𝗰𝗲𝗱 𝗯𝘆  BIKROYPIN"
     )
