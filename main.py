@@ -25,7 +25,7 @@ import asyncio
 from flask import Flask, request, jsonify, redirect, url_for, abort
 from flask import Flask, request, jsonify, redirect, url_for, abort
 # MongoDB URL
-MONGO_URI = "mongodb+srv://siamgameshop465:siyam2007@cluster0.5mqcmr6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "mongodb+srv://bdteem82:Dne6lrSEIQ43HH7J@cluster0.oat2vw3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 mongo_client = MongoClient(MONGO_URI)
 db = mongo_client["telegram_bot_db"]
 
